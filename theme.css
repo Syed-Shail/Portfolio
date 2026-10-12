@@ -276,3 +276,9 @@ body { background: var(--bg); color: var(--text); }
   .project-links { padding-left: 15px; }
   .hero-art { border-radius: 47% 53% 48% 52%; }
 }
+
+.contact-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 12px 18px; margin-top: 29px; }
+.contact-actions .button { margin: 0; }
+.copy-email { border: 0; padding: 8px 0; background: transparent; color: #59615d; font: 11px var(--sans); text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
+.copy-email:hover { color: #c64f35; }
+.email-copy-status { color: #59615d; font-size: 10px; }
