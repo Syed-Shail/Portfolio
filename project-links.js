@@ -6,7 +6,7 @@ window.projectLinks = {
   carsense: { demo: "", source: "" },
   study: { demo: "", source: "" },
   tax: { demo: "", source: "" },
-  crypto: { demo: "", source: "" },
+  crypto: { demo: "", marketplace: "https://marketplace.visualstudio.com/items?itemName=SyedShail.crypto-detector", source: "" },
   retail: { demo: "", source: "" },
   reliability: { demo: "", source: "" }
 };
