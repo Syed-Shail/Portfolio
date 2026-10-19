@@ -19,4 +19,5 @@ Upload this directory, including `index.html`, `styles.css`, `theme.css`, `proje
 ## Content notes
 
 - The Retail Trends Explorer is an interactive analysis demo built with synthetic data. The API Reliability Playground is a deterministic local simulation.
+- The UAE Car Valuation Lab is a reproducible model study on a historical UAE used-car listing snapshot. Its case study reports held-out metrics and limitations; the raw data is not redistributed because the upstream repository does not state a dataset license. The project code, reproducibility notes, and local run instructions are in a separate [GitHub repository](https://github.com/Syed-Shail/uae-car-valuation-lab).
 - The achievement cards use the details currently available. Add the hackathon name and project, student-exchange destination, and sports in the matching cards in `index.html` if you want to make them more specific.
