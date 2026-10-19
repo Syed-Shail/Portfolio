@@ -76,7 +76,7 @@
 .valuation-kpis b { color:#315e50; font:700 21px var(--display); letter-spacing:-.04em; }
 .valuation-bars { display:grid; grid-template-columns:92px 1fr 47px; align-items:center; gap:5px 8px; font:6px var(--mono); color:#758078; }
 .valuation-bars i { height:6px; background:#e9e7de; }
-.valuation-bars i b { display:block; width:58.6%; height:100%; background:#629079; }
+.valuation-bars i b { display:block; width:43.5%; height:100%; background:#629079; }
 .valuation-bars i:nth-of-type(2) b { width:100%; background:#c98565; }
 .valuation-bars strong { color:#477c64; font:7px var(--mono); }
 .valuation-foot { border-top:1px solid #e4e5dc; margin-top:9px; padding-top:8px; font:6px var(--mono); letter-spacing:.05em; color:#78857c; }
