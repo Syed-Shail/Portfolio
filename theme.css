@@ -241,7 +241,7 @@ body { background: var(--bg); color: var(--text); }
 .future-cards > p { color: #aeb8ac; }
 
 .achievement-section { padding: 100px 0; background: #f5f2eb; }
-.achievement-grid { display: grid; grid-template-columns: repeat(3,1fr); border-top: 1px solid #d7d1c7; border-bottom: 1px solid #d7d1c7; }
+.achievement-grid { display: grid; grid-template-columns: repeat(4,1fr); border-top: 1px solid #d7d1c7; border-bottom: 1px solid #d7d1c7; }
 .achievement-grid article { display: grid; grid-template-columns: 28px 1fr 24px; gap: 12px; padding: 23px 17px 24px 0; border-right: 1px solid #d7d1c7; }
 .achievement-grid article + article { padding-left: 20px; }
 .achievement-grid article:last-child { border-right: 0; }
