@@ -163,6 +163,7 @@ body { background: var(--bg); color: var(--text); }
 .study-visual { background: radial-gradient(ellipse at 75% 55%,#d8d3e0,#e6e3e7 46%,#eeebe5 80%); }
 .tax-visual { background: radial-gradient(ellipse at 52% 65%,#c5d6d2,#e0e7e1 55%,#eeebe3); }
 .crypto-visual { background: radial-gradient(ellipse at 60% 55%,#d0d9cd,#e0e5db 55%,#eeebe3); }
+.sckr-visual { background: radial-gradient(ellipse at 40% 55%,#d9d2c4,#e6e1d6 55%,#eeebe3); }
 .visual-top, .visual-bottom { color: #58655f; }
 .visual-bottom { background: linear-gradient(transparent,#ece8e1f5); }
 .visual-bottom span:last-child { color: #b14c36; }

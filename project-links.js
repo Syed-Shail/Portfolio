@@ -9,5 +9,6 @@ window.projectLinks = {
   crypto: { demo: "", marketplace: "https://marketplace.visualstudio.com/items?itemName=SyedShail.crypto-detector", source: "" },
   retail: { demo: "", source: "" },
   reliability: { demo: "", source: "" },
-  valuation: { demo: "", source: "https://github.com/Syed-Shail/uae-car-valuation-lab" }
+  valuation: { demo: "", source: "https://github.com/Syed-Shail/uae-car-valuation-lab" },
+  sckrapi: { demo: "", source: "" }
 };
